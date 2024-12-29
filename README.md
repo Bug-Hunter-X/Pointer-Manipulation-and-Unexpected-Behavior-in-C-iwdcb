@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates pointer manipulation. The program initializes an integer variable and then modifies its value through a pointer. The focus is on illustrating the correct usage of pointers to avoid common errors.
